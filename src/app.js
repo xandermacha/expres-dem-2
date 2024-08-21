@@ -4,7 +4,7 @@ const app = express()
 const port = 80
 
 app.get('/', (req, res) => {
-	res.send('hello world')
+	res.send('fart ass')
 })
 
 app.get('/test', (req, res) => {
